@@ -6,6 +6,7 @@ Learn Ethical Hacking with @iDomaincom
 Welcome to the official iDomaincom YouTube channel! This channel best for ethical hacking, penetration testing, cyber security, network security, in this channel you can easily learn ethical hacking, Kali Linux, Linux fundamentals, Computer, Network, WiFi, Website security fundamentals, web servers, web hosting tutorials & more in Hindi and English.
 
 ▀▄▀▄▀▄ [ Follow Me on ] ▄▀▄▀▄▀
+<pre>
 
 ┌──┤ SOCIAL ├─────────▰▰▰
 │
@@ -27,3 +28,4 @@ Welcome to the official iDomaincom YouTube channel! This channel best for ethica
 ├─◈ <a href="https://github.com/iDomaincom/HTML-Play">HTML-Play</a>
 │
 └───────────────────────────────▰▰▰
+</pre>

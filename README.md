@@ -1,12 +1,10 @@
-Welcome to iDomaincom GitHub. 
-Welcome to iDomaincom
+Welcome to iDomaincom GitHub.iDomaincom
 ====================================================================================
 
 Learn Ethical Hacking with @iDomaincom
 
 Welcome to the official iDomaincom YouTube channel! This channel best for ethical hacking, penetration testing, cyber security, network security, in this channel you can easily learn ethical hacking, Kali Linux, Linux fundamentals, Computer, Network, WiFi, Website security fundamentals, web servers, web hosting tutorials & more in Hindi and English.
 
-====================================================================================
 ▀▄▀▄▀▄ [ Follow Me on ] ▄▀▄▀▄▀
 
 Twitter: https://twitter.com/iDomaincom/

@@ -7,14 +7,23 @@ Welcome to the official iDomaincom YouTube channel! This channel best for ethica
 
 ▀▄▀▄▀▄ [ Follow Me on ] ▄▀▄▀▄▀
 
-Twitter: https://twitter.com/iDomaincom/
+┌──┤ SOCIAL ├─────────▰▰▰
+│
+├─◈ <a href="https://twitter.com/iDomaincom/">Twitter</a>
+├─◈ <a href="https://www.youtube.com/channel/UCAj8NrnGPZ1ZyUHSaqJliyQ">YouTube</a>
+├─◈ <a href="https://t.me/iDomaincom">Telegram</a>
+├─◈ <a href="https://www.instagram.com/idomaincom/">Instagram</a>
+├─◈ <a href="https://www.facebook.com/iDomaincom/">Facebook</a>
+├─◈ <a href="https://idomaincom.github.io/">Website</a>
+│
+└───────────────────────────────▰▰▰
 
-Facebook: https://www.facebook.com/iDomaincom/
 
-Instagram: https://www.instagram.com/idomaincom/
-
-Github: https://github.com/iDomaincom
-
-Youtube: https://www.youtube.com/channel/UCAj8NrnGPZ1ZyUHSaqJliyQ
-
-Website: https://idomaincom.github.io/
+┌──┤ PROJECTS ├───────▰▰▰
+│
+├─◈ <a href="https://github.com/iDomaincom/HTML-CLOCK-TIME">HTML-CLOCK-TIME</a>
+├─◈ <a href="https://github.com/iDomaincom/Clock-Using-HTML-CSS-JS">Clock-Using-HTML-CSS-JS</a>
+├─◈ <a href="https://github.com/iDomaincom/Tic-Tac-Toe-Using-HTML-CSS-JS">Tic-Tac-Toe-Using-HTML-CSS-JS</a>
+├─◈ <a href="https://github.com/iDomaincom/HTML-Play">HTML-Play</a>
+│
+└───────────────────────────────▰▰▰
